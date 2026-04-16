@@ -21,9 +21,10 @@ Ingénieure en informatique diplômée **2025**,
 spécialisée en **Full Stack JavaScript** et **Microsoft Dynamics 365**.
 
 - 🔭 Actuellement orientée **MEAN ·CRM · Power Platform · MERN**
-- 🌱 Certifiée **AWS** — Microservices & CI/CD
+- 🌱 Certifiée **AWS** — focus sur les microservices, CI/CD et déploiement cloud
 - ⚡ Fan de **clean code**, **REST API** et **automatisation**
-- 🌍 Disponible à **Tunis**, **France** et en remote
+- 🏢 Intérêt marqué pour les environnements ESN, cabinets de conseil et projets clients grands comptes
+- 🌍 Disponible pour des opportunités à **Tunis**, **France** et en remote
 - 💬 Parle **Français · Anglais · Arabe**
 
 <br clear="right"/>
@@ -71,7 +72,7 @@ Plateforme de gestion de CVs multi-rôles — création, templates personnalisab
  
 **3 rôles** : Admin · Project Manager · Consultant
  
-[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/CVtheque)
+[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/cvtheque-mean.git)
  
 </td>
  
@@ -86,7 +87,7 @@ E-commerce décoration d'intérieur — catalogue, panier, factures, partenaires
  
 **30+** produits · Factures PDF · Favoris
  
-[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/decodar-ecommerce-mean)
+[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/decodar-ecommerce-mean.git)
  
 </td>
  
@@ -104,7 +105,7 @@ App e-commerce cosmétique MERN — catalogue 20+ produits, panier, commandes, a
  
 **Projet académique** validé par jury · EPI Sousse
  
-[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/Cosmoglowy-mern)
+[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/Cosmoglowy-mern.git)
  
 </td>
  
@@ -119,7 +120,7 @@ Plateforme e-commerce MEAN Stack — catalogue produits & services, authentifica
  
 **Projet académique** · ISET Kélibia
  
-[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/bahria-lumiere-mean)
+[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/bahria-lumiere-mean.jit)
  
 </td>
  
@@ -137,7 +138,7 @@ App mobile hybride de géolocalisation — carte interactive, filtres, restauran
  
 **Géolocalisation** · Temps réel · Multi-filtres
  
-[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/NearbyKitchenCordova)
+[![Repo](https://img.shields.io/badge/→%20Voir%20le%20repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farah-benhadjali/NearbyKitchenCordova.git)
  
 </td>
  
