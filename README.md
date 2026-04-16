@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-farah--ben--hadj--ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ben-hadj-ali-a580011a5/)
 [![Gmail](https://img.shields.io/badge/-farah.bhadjali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.bhadjali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-portfolio.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dev-prv.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-dev-prv.vercel.app)
 [![GitHub](https://img.shields.io/badge/-farah--benhadjali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farah-benhadjali)
 
 </div>
@@ -218,7 +218,7 @@ AWS & Cloud           ██████████░░░░░░░░░�
  
 | 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 📱 Téléphone |
 |---|---|---|---|
-| [farah.bhadjali@gmail.com](mailto:farah.bhadjali@gmail.com) | [farah-ben-hadj-ali](https://www.linkedin.com/in/farah-ben-hadj-ali-a580011a5/) | [portfolio.com](https://portfolio-dev-prv.vercel.app) | +216 27 66 40 99 |
+| [farah.bhadjali@gmail.com](mailto:farah.bhadjali@gmail.com) | [farah-ben-hadj-ali](https://www.linkedin.com/in/farah-ben-hadj-ali-a580011a5/) | [portfolio](https://portfolio-dev-prv.vercel.app) | +216 27 66 40 99 |
  
 </div>
  
